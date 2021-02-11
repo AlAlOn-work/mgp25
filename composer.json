@@ -48,7 +48,7 @@
         "ext-exif": "*",
         "ext-zlib": "*",
         "ext-bcmath": "*",
-        "react/event-loop": "dev-master",
+        "react/event-loop": "1.*",
         "react/promise": "^2.5",
         "react/socket": "^3.0",
         "binsoul/net-mqtt-client-react": "^0.3.2",
